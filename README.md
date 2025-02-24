@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello everyone
 
-<!--
-**HPS88/hps88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my github profile.
 
-Here are some ideas to get you started:
+## GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HPS88's GitHub stats](https://github-readme-stats.vercel.app/api?username=HPS88&show_icons=true&theme=radical)
+
+## Contact
+
+Feel free to reach out if you have any questions or if you want to collaborate on a project. Let's build something amazing together!
+
+Thanks for visiting my profile!
