@@ -19,10 +19,10 @@ This is my personal website, it only has a landing page at the moment.
 ## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=HPS88&show_icons=true&theme=radical" alt="hps88 Github Stats">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HPS88&theme=radical" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HPS88&layout=compact&theme=radical" alt="Top Languages" />
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HPS88&theme=radical" alt="GitHub Streak"/>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HPS88&layout=compact&theme=radical" alt="Top Languages"/>
 
 ## Contact
 
